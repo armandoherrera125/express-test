@@ -1,9 +1,8 @@
 const handleReturnNumber = () => {
     return 5;
 }
-console.log('Cmabios desde la rama del login');
+console.log('logre un error de rebase')
 
-console.log('Second change to login');
 module.exports = {
     handleReturnNumber
 }
