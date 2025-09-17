@@ -1,8 +1,7 @@
 const handleReturnNumber = () => {
     return 5;
 }
-console.log('Agregue algo');
-console.log('mensaje para que falle el rebase');
+console.log('logre un error de rebase')
 
 module.exports = {
     handleReturnNumber
